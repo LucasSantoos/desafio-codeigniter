@@ -19,6 +19,12 @@ Desenvolver uma aplicação de Agenda de Compromissos (CRUD) utilizando CI.
   
 - O template do CI já está disponível. Basta fazer as configurações necessárias para o projeto.
 
+### Layout
+
+- Dentro da pasta [Layout](./Layout) possui arquivos [png](./Layout/), use-os como referência para desenvolver o protótipo;
+- Use as **cores** definidas no [guideline](./Layout/Guideline-color.jpg);
+- As **fontes** utilizadas são: [Roboto](https://www.google.com/fonts/specimen/Roboto) e [Roboto Slab](https://www.google.com/fonts/specimen/Roboto+Slab);
+
 #### Instruções:
 1. Faça um fork deste projeto.
 2. Crie uma branch com o padrão `seunome-desafio-ci`.
