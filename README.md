@@ -27,8 +27,8 @@ Desenvolver uma aplicação de Agenda de Compromissos (CRUD) utilizando CI.
 #### Instruções:
 1. Faça um fork deste projeto.
 2. Crie uma branch com o padrão `seunome-desafio-ci`.
+3. Criar uma pasta SQL e colocar os scripts do database.
 4. Ao finalizar este desafio, enviar um pull request com suas alterações e envie um e-mail para cassio.huggentobler@ulbra.inf.br com o link do pull request.
-
 
 
 ### Diferenciais
