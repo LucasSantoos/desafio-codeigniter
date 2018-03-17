@@ -4,9 +4,9 @@
 Desenvolver uma aplicação de Agenda de Compromissos (CRUD) utilizando CI.
 
 #### Desafio:
-- Implementar em HTML/CSS os layouts apresentados em `resources/layouts`.
+- Implementar em HTML/CSS os layouts apresentados em `/layouts`.
   
-- Gerenciar compromissos.
+- Gerenciar compromissos
   - Listar (e filtrar quais compromissos por período.)
   - Adicionar
   - Editar
@@ -20,7 +20,7 @@ Desenvolver uma aplicação de Agenda de Compromissos (CRUD) utilizando CI.
 
 ### Layout
 
-- Dentro da pasta [Layout](./Layout) possui arquivos [png](./Layout/), use-os como referência para desenvolver o protótipo;
+- Dentro da pasta [Layout](./Layout) possui arquivos, use-os como referência para desenvolver o protótipo;
 - Use as **cores** definidas no [guideline](./Layout/Guideline-color.jpg);
 - As **fontes** utilizadas são: [Roboto](https://www.google.com/fonts/specimen/Roboto) e [Roboto Slab](https://www.google.com/fonts/specimen/Roboto+Slab);
 
