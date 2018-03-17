@@ -5,7 +5,6 @@ Desenvolver uma aplicação de Agenda de Compromissos (CRUD) utilizando CI.
 
 #### Desafio:
 - Implementar em HTML/CSS os layouts apresentados em `resources/layouts`.
-  - A fonte utilizada é a ProximaNova e está em `resources/fonts`.
   
 - Gerenciar compromissos.
   - Listar (e filtrar quais compromissos por período.)
@@ -17,7 +16,7 @@ Desenvolver uma aplicação de Agenda de Compromissos (CRUD) utilizando CI.
 - Realizar validação do formulário no frontend.
   - Caso o servidor retorne erro, apresentá-lo amigavelmente ao usuário.
   
-- O template do CI já está disponível. Basta fazer as configurações necessárias para o projeto.
+- O template do CI já está disponível. Basta fazer as configurações necessárias para o projeto (mysql, rotas, etc).
 
 ### Layout
 
