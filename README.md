@@ -42,3 +42,4 @@ Desenvolver uma aplicação de Agenda de Compromissos (CRUD) utilizando CI.
 Em caso de dúvidas, [abra uma issue](https://github.com/lds-ulbra-torres/desafio-codeigniter/issues)
 
 boa sorte e abç.
+# desafio-codeigniter-lds

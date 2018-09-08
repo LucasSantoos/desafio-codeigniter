@@ -1,0 +1,100 @@
+/* h5 {
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto';
+}
+
+h1 {
+    font-family: 'Roboto';
+    text-align: center;
+    font-weight: lighter;    
+}
+
+.container {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 40%;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+#botoes {
+    width: 100%;
+}
+
+#direita {
+    float: right;
+}
+
+.botao {
+    
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: #aa1423;
+    border-radius: 5px;
+    font-family: 'roboto';
+
+}
+
+.botao-tabela {
+
+    color: rgb(255, 255, 255);
+    padding: 5px 5px;
+    margin: 4px 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    background-color: #aa1423;
+    border-radius: 5px;
+    font-family: 'roboto';
+
+}
+
+.itens{
+    width: 97.1%;
+    background-color: rgb(88, 88, 88);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+
+.cap  {
+    border: 0.5px solid #777;
+    padding: 0 20px 20px 20px;
+    border-radius: 8px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'roboto';
+}
+
+td, tr {
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+th {
+    padding: 15px;
+    font-size: 15pt;
+    text-align: left;
+    border: #777 solid 2px; 
+}
+
+thead {
+    color: #fff;
+    background-color: #aa1423;
+}
+
+
+ */
